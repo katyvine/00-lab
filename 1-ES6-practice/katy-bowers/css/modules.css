@@ -1,0 +1,10 @@
+canvas {
+  margin: 10px auto;
+}
+
+#bus {
+  display: block;
+  padding: 10px;
+  margin: 0px auto;
+  height: 50px;
+}
